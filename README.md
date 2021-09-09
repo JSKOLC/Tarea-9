@@ -43,6 +43,114 @@ CAPITULO 24:
 
 3.RESOLUCIÓN DE EJERCICIOS:
 
+35. Para la figura 23-80, determine LT.
+
+![image](https://user-images.githubusercontent.com/85263529/132605406-362e59d0-ad07-4d62-a26c-7ea36ca8e0ba.png)
+
+![image](https://user-images.githubusercontent.com/85263529/132605428-dc082a39-4f1f-4f41-b7ec-3721feb39702.png)
+
+37. Los inductores de la figura 23-82 están mutuamente acoplados. ¿Cuál es su inductancia equivalente? Si f 60 Hz, ¿cuál es la corriente en la fuente?
+
+![image](https://user-images.githubusercontent.com/85263529/132605481-c7718447-00b4-44b3-a7bb-b847a3e59fe8.png)
+
+![image](https://user-images.githubusercontent.com/85263529/132605577-a9614b3c-d205-4dec-8ea2-41dde1051aee.png)
+
+39. Para el circuito de la figura 23-83, escriba las ecuaciones de malla
+
+![image](https://user-images.githubusercontent.com/85263529/132605595-7a2a6b00-fcdb-4d7c-8b3c-c3b60ef925f9.png)
+
+![image](https://user-images.githubusercontent.com/85263529/132605603-4db41163-4664-46e9-93b7-428cbe20014d.png)
+
+41. Escriba las ecuaciones de malla para el circuito de la figura 23-84.
+
+![image](https://user-images.githubusercontent.com/85263529/132605637-d2355f9e-1349-4168-bc73-9b1b04481c5c.png)
+
+![image](https://user-images.githubusercontent.com/85263529/132605647-30c0a5b8-9159-4d81-bcca-601bd0eb1ced.png)
+
+CÁPITULO 24
+
+
+1. Mientras las cargas y voltajes de la figura 24-3(c) estén balanceados (sin tener en cuenta su valor real) las
+
+ corrientes IA, IB, e IC sumarán cero. Para ilustrarlo, cambie la impedancia de carga de 12Ω a 15 Ω ∠30° y
+ 
+ para EAA= 120 V∠0°, haga lo siguiente:
+
+![image](https://user-images.githubusercontent.com/85263529/132606117-2d3e6918-85e5-44f3-b67d-a1d658a1ff1b.png)
+
+![image](https://user-images.githubusercontent.com/85263529/132606147-2b37616e-4ffd-49bf-abf9-fa1b61eba0fd.png)
+
+3. Dibuje el conjunto de formas de onda de las corrientes iA, iB e iC para el circuito de la figura 24 3(c).
+
+Suponga carga puramente resistiva y balanceada.
+
+![image](https://user-images.githubusercontent.com/85263529/132606168-5e103883-bfe6-427b-b03d-d01390958114.png)
+
+![image](https://user-images.githubusercontent.com/85263529/132606331-4775302c-2993-4605-a33e-448d8451f0d1.png)
+
+5. Para las cargas de la figura 24-4, Vbc=208 V∠-75°.
+
+
+a. Determine los voltajes línea a línea Vab y Vca. b. Determine los voltajes de fase.
+
+![image](https://user-images.githubusercontent.com/85263529/132606373-21963dfb-2323-4333-90e2-ba0af1b8a463.png)
+
+![image](https://user-images.githubusercontent.com/85263529/132606392-467fe409-c2ab-4b83-bcd3-4f31575d95d5.png)
+
+7. Para la carga de la figura 24-47, Van=347 V∠15°. Determine todas las corrientes de línea. Dibuje el diagrama fasorial.
+
+![image](https://user-images.githubusercontent.com/85263529/132606428-c3d202b3-1bc9-4e1f-98cf-de58755cafd7.png)
+
+![image](https://user-images.githubusercontent.com/85263529/132606443-9428ee09-861c-4d8e-a72e-64f305d7210d.png)
+
+9. Una carga Y balanceada tiene una impedancia de Zan=14.7Ω∠16°. Si Vcn=120 V∠160°, determine todas las corrientes de línea.
+
+![image](https://user-images.githubusercontent.com/85263529/132606581-ce6388c5-ec90-47ad-b23e-d56ceec82a4c.png)
+
+11. Para una carga delta balanceada, Iab=29.3 A∠43°. ¿Cuánto vale Ia?
+
+![image](https://user-images.githubusercontent.com/85263529/132606611-5057f36f-f8c3-42ac-9c09-1b5eeb347a26.png)
+
+13. Para el circuito de la figura 24-48, Vab=480 V∠0°. Encuentre la fase y las corrientes de línea.
+
+![image](https://user-images.githubusercontent.com/85263529/132606635-2eae96ab-fdeb-4946-9ed3-b87b6e89273e.png)
+
+![image](https://user-images.githubusercontent.com/85263529/132606660-c41acb90-b170-42e6-a9b9-f9b03299635b.png)
+
+
+15. Para el circuito de la figura 24-48, si Ia=41.0 A∠-46.7°, encuentre todas las corrientes de fase.
+
+![image](https://user-images.githubusercontent.com/85263529/132606685-ad7aab9c-910f-4be2-9c0c-864b74c01635.png)
+
+![image](https://user-images.githubusercontent.com/85263529/132606702-bf458137-d845-4cfa-84f5-e53d941bb3e7.png)
+
+17. Para el circuito de la figura 24-48, si Iab=10 A∠-21°, determine todos los voltajes de línea.
+
+![image](https://user-images.githubusercontent.com/85263529/132606734-d21b051e-e9c2-4515-b658-037c2edcf82e.png)
+
+![image](https://user-images.githubusercontent.com/85263529/132606752-6b0c3f84-4a53-443d-a69c-6ef32905e71f.png)
+
+19. Una carga Y balanceada tiene una impedancia de fase de 24Ω∠33° y un voltaje línea a línea de 600 V. Tome Van como referencia y determine todas las corrientes de línea.
+
+![image](https://user-images.githubusercontent.com/85263529/132606770-27f8f307-e013-4487-bd0c-8732a98c20c6.png)
+
+21. Una carga Δ balanceada tiene una impedancia de fase de 27 Ω∠-57° y un voltaje de fase de 208 V. Tome Vab como 
+
+referencia y determine.
+
+![image](https://user-images.githubusercontent.com/85263529/132606811-b7071009-5232-431d-a3db-3a9c2379e9b7.png)
+
+![image](https://user-images.githubusercontent.com/85263529/132606820-a3101c48-015b-4283-81f6-af990c980d08.png)
+
+23. Para la figura 24-49, Van=120 V∠0°. Dibuje el equivalente de una sola fase y: a. Encuentre el voltaje de fase EAN, magnitud y ángulo.
+
+![image](https://user-images.githubusercontent.com/85263529/132606858-a1b692b4-c733-43f8-843c-cb439be6f414.png)
+
+
+
+
+
+
 25.- Para la figura 24-48, suponga que las líneas tienen una impedancia Z_{linea} de 0.15\Omega\ +\ j0.25\Omega\ y\ E_{AN}=120V\angle0°. Convierta la carga ∆ en Y y use el equivalente de una fase para encontrar las corrientes de línea. 
 
 ![imagen](https://user-images.githubusercontent.com/85263529/132604347-d1512785-b212-48aa-aaa1-55c338e6c91c.png)
