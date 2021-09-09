@@ -18,6 +18,8 @@ Capitulo 23: Transformadores y circuitos acoplados
  
 Capitulo 24: Sistemas de tres fases.
 
+
+
 1.OBJETIVOS:
 
 GENERAL:
@@ -52,6 +54,8 @@ CAPITULO 23:
 
 
 CAPITULO 24:
+
+![image](https://user-images.githubusercontent.com/85263529/132632288-1cd75675-3dee-4055-8ca5-032b3756ea57.png)
 
 
 3.RESOLUCIÓN DE EJERCICIOS:
