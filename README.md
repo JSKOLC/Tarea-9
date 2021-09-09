@@ -324,7 +324,8 @@ b. Determine Ig, IL, y VL.
 
 ![image](https://user-images.githubusercontent.com/85263529/132605406-362e59d0-ad07-4d62-a26c-7ea36ca8e0ba.png)
 
-![image](https://user-images.githubusercontent.coe.![Uploading image.png…]()m/85263529/132605428-dc082a39-4f1f-4f41-b7ec-3721feb39702.png)
+![image](https://user-images.githubusercontent.com/85263529/132724661-ccbd5df3-70cc-4923-80e1-dc138bd25086.png)
+
 
 37. Los inductores de la figura 23-82 están mutuamente acoplados. ¿Cuál es su inductancia equivalente? Si f 60 Hz, ¿cuál es la corriente en la fuente?
 
