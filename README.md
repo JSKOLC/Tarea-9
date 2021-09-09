@@ -591,6 +591,7 @@ b. El voltaje entre el neutro de la carga y el neutro del generador.
 
 4.VIDEO:
 
+https://youtu.be/n75ZkkUI_zU
 
 
 5.CONCLUSIONES:
