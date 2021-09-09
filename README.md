@@ -56,11 +56,271 @@ CAPITULO 24:
 
 3.RESOLUCIÓN DE EJERCICIOS:
 
+23-1 Introducción
+
+1. Para los transformadores de la figura 23-71, dibuje las formas de onda que faltan.
+
+
+![image](https://user-images.githubusercontent.com/85263529/132628558-8d0fcb07-d90a-4b68-9e27-3c8a43cf34ba.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/132628564-25348523-8530-4301-ab62-1f2bc5b6d19f.png)
+
+
+3. Un transformador ideal tiene Np _ 1000 vueltas y Ns _ 4000 vueltas.
+
+
+a. ¿El voltaje se eleva o se reduce?
+
+
+![image](https://user-images.githubusercontent.com/85263529/132628594-ab4b7172-2643-491a-b301-76ed89b90a51.png)
+
+
+Por lo tanto el voltaje aumenta ya que <1.
+
+
+b. Si es _ 100 sen qt, ¿que valor tiene ep cuando se devana como en la figura23-7(a)? 
+
+
+![image](https://user-images.githubusercontent.com/85263529/132628630-2c996107-461f-4b7a-bcb8-7608ea20cf99.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/132628642-0cf270a1-7791-47ac-a8be-2bcd25460aff.png)
+
+
+c. Si Es _ 24 volts, ¿que valor tiene Ep?
+
+
+![image](https://user-images.githubusercontent.com/85263529/132628669-bd9f5b85-5ebb-44d9-a192-2441eed4d85f.png)
+
+
+d. Si Ep _ 24 V∠0_, ¿que valor tiene Es cuando se devana como en la figura 23-7(a)?
+
+
+![image](https://user-images.githubusercontent.com/85263529/132628724-20beda3f-674d-4a9f-a5d0-fe1cfe2ddb44.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/132628740-2e4cb68a-ea9f-4c04-9291-7db99f130837.png)
+
+
+e. Si Ep _ 800 V∠0_, ¿que valor tiene Es cuando se devana como en la figura 23-7(b)?
+
+
+![image](https://user-images.githubusercontent.com/85263529/132628770-a5e679e7-fc6e-4022-8ce7-ab0cb09fc4eb.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/132628797-25163531-220e-4288-b12d-fadcdbdf920c.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/132628809-9e42ba55-3c20-49b6-bf24-c735a62d0e11.png)
+
+
+5. Para la figura 23-72, determine las expresiones para v1, v2 y v3.
+
+![image](https://user-images.githubusercontent.com/85263529/132628862-4c88a77b-75aa-4527-b9a6-ec9a6d2baa20.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/132628884-b0e13020-48b5-40e5-a937-6ae17a44de1e.png)
+
+
+7. Si, para la figura 23-73, Eg _ 240 V∠0_, a _ 0.5, e Ig _ 2 A∠20_, determine lo siguiente:
+
+
+a.	IL b. VL c. ZL
+
+![image](https://user-images.githubusercontent.com/85263529/132628909-4a7bf5c5-47ed-4abc-a986-85d8662a6f4e.png)
+
+
+ a)
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/85263529/132628952-4ff3e8b4-bdee-4e4b-8e0a-4aadeb9cba83.png)
+ 
+ 
+b)
+
+
+![image](https://user-images.githubusercontent.com/85263529/132629527-1fcc8f0f-8d1b-4d9b-8c8c-8b722a9351d8.png)
+
+
+c)
+
+
+![image](https://user-images.githubusercontent.com/85263529/132629006-19c1a76f-1cc5-4c52-a48a-42423988a660.png)
+
+
+9. Si, para la figura 23-73, a _ 4, Ig _ 4 A∠30_, y ZL _ 6 __j8 _, determine lo siguiente:
+
+
+a.	VL b. Eg
+
+
+![image](https://user-images.githubusercontent.com/85263529/132629027-b5a5cbd0-aa45-4495-b6cf-37558214533f.png)
+
+
+a)
+
+
+![image](https://user-images.githubusercontent.com/85263529/132629066-33d8d25b-d072-44b5-b658-ac91f0a3306e.png)
+
+
+b)
+
+
+![image](https://user-images.githubusercontent.com/85263529/132629109-ac4f815b-5d4f-439e-ae47-24782656d113.png)
+
+23-3 Impedancia reflejada
+
+11. Para cada circuito de la figura 23-74, determine Zp.
+
+
+![image](https://user-images.githubusercontent.com/85263529/132629616-82d3e5cb-38f1-4bc1-a633-ebb3f1d146e3.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/132629663-a890bb87-b23b-4055-8fa0-e02fac5f5757.png)
+
+
+13. Para la figura 23-74(a), ¿qué relación de vueltas se requiere para hacer que Zp_(62.5_j125) _?
+
+![image](https://user-images.githubusercontent.com/85263529/132629716-7fc206e5-00c9-4f1a-9dd2-573fe24c0e7b.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/132629728-16a1d319-fec5-41f4-ad62-5e29843c434f.png)
+
+
+15. Para cada circuito de la figura 23-75, determine ZT.
+
+
+
+![image](https://user-images.githubusercontent.com/85263529/132629764-d7fee306-a6cd-45e6-9dc3-554930c7b1a3.png)
+
+
+
+23-4 Especificaciones del transformador de potencia
+
+
+17. Un transformador tiene una especificación de voltaje primario de 7.2 kV, a _0.2, y una especificación de corriente en el secundario de 3 A. ¿Cuál es la especificación
+de kVA?
+
+
+![image](https://user-images.githubusercontent.com/85263529/132629795-3ae25365-738d-4ea6-b565-791258c16fb2.png)
+
+
+23-5 Aplicaciones del transformador
+
+
+19. El transformador de la figura 23-25 tiene un primario de 7200 V y un secundario de 240 V con terminal central. Si la carga 1 consiste en doce lamparas de 100 W, la carga 2 es un calentador de 1500 W y la carga 3 es una horno de 2400 W con Fp _ 1.0, determine:
+
+
+
+![image](https://user-images.githubusercontent.com/85263529/132629863-229e9f33-08eb-4788-9fbe-cb885a1dc6f2.png)
+
+
+a.	I1 b. I2 c. IN d. Ip
+
+
+![image](https://user-images.githubusercontent.com/85263529/132629900-2d3c876a-f883-4b35-a7c7-c9c923234060.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/132629906-649614a1-d2e3-44a4-b5cb-1cd527e51d66.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/132629923-5e70ceb6-4538-401f-b726-76c590611329.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/132629937-796e8ea4-f195-4264-a99c-3b4bd8eab63c.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/132629952-85680bd6-15a5-4996-856e-f31be32f4716.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/132629962-c5e0804e-cc8a-4751-837a-3e1912f285f7.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/132629972-b03b1b29-5570-47f7-b4f7-d1fb47cbd268.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/132629983-51547de2-0894-44cf-97e9-656ab0c557d2.png)
+
+
+21. Un amplificador con un equivalente de Thevenin de 10 V y RTh de 25 _ maneja una bocina de 4 _ a través de un transformador con una relación de vueltas de a _ 5. ¿Cuánta potencia es suministrada a la bocina? ¿Qué relación de vueltas produce 1 W?
+
+
+
+![image](https://user-images.githubusercontent.com/85263529/132630040-03cd6807-1573-4d01-b6ff-5c4f169364f8.png)
+
+
+23. Para la figura 23-30(a), a2 _ 2 y a3 _ 5, Z2 _ 20 _∠50_, Z3 _ (12 _ j4) _y Eg _ 120 V∠0_. Encuentre cada corriente de carga y la corriente del generador.
+
+![image](https://user-images.githubusercontent.com/85263529/132630098-bcf1cf85-9c6d-4802-997e-d72f41b2b5a6.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/132630107-7a2e22d5-8d45-4d8e-a8ab-0ba442e1e99f.png)
+
+
+23-6 Transformadores de núcleo de hierro prácticos
+
+
+25. Para la figura 23-77, Eg _ 1220 V∠0_.
+
+
+a. Dibuje el circuito equivalente.
+
+
+b. Determine Ig, IL, y VL.
+
+
+![image](https://user-images.githubusercontent.com/85263529/132630145-5e354469-c9aa-4b83-bc2a-a411ffb57d4a.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/132630158-b645b796-1753-4d28-9d7d-9ad9b4433a25.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/132630170-c627007f-35f1-4999-bad3-664571b4aa76.png)
+
+
+27. Un transformador que entrega Psal _ 48 kW tiene un perdida en el núcleo de 280 W y una perdida en el cobre de 450 W. ¿Cual es su eficiencia a esta carga?.
+
+![image](https://user-images.githubusercontent.com/85263529/132630244-7e3243a9-1bd0-44db-9498-00d9422c94fc.png)
+
+
+23-9 Circuitos débilmente acoplados
+
+
+29. Para la figura 23-78,
+
+
+
+![image](https://user-images.githubusercontent.com/85263529/132630311-bfcabe2a-3a4f-4a3a-bcba-95f685472ae1.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/132630293-5d4e5cd7-cc81-412c-a677-1bffcd121892.png)
+
+
+
+31. Para un conjunto de bobinas acopladas, L1 _ 2 H, M _ 0.8 H y el coeficiente de acoplamiento es de 0.6. Determine L2.
+
+
+
+![image](https://user-images.githubusercontent.com/85263529/132630366-dd374ec2-cbb5-480c-8d19-83239c511b3d.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
 35. Para la figura 23-80, determine LT.
 
 ![image](https://user-images.githubusercontent.com/85263529/132605406-362e59d0-ad07-4d62-a26c-7ea36ca8e0ba.png)
 
-![image](https://user-images.githubusercontent.com/85263529/132605428-dc082a39-4f1f-4f41-b7ec-3721feb39702.png)
+![image](https://user-images.githubusercontent.coe.![Uploading image.png…]()m/85263529/132605428-dc082a39-4f1f-4f41-b7ec-3721feb39702.png)
 
 37. Los inductores de la figura 23-82 están mutuamente acoplados. ¿Cuál es su inductancia equivalente? Si f 60 Hz, ¿cuál es la corriente en la fuente?
 
