@@ -38,6 +38,19 @@ ESPECIFICOS:
 
 CAPITULO 23:
 
+![image](https://user-images.githubusercontent.com/85263529/132622853-42256031-9e89-4d89-9916-835c0a313aa4.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/132623398-cbbde755-4b43-486c-b281-d559237340cf.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/132623485-27bc32c3-9f31-46aa-ac06-c3c3dda7f5fe.png)
+
+
+
+![image](https://user-images.githubusercontent.com/85263529/132623054-a1fdcff3-f95f-44ea-85a7-a58da6d24e77.png)
+
+
 CAPITULO 24:
 
 
