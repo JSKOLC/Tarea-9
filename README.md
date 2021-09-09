@@ -336,6 +336,7 @@ b. Determine Ig, IL, y VL.
 
 ![image](https://user-images.githubusercontent.com/85263529/132605595-7a2a6b00-fcdb-4d7c-8b3c-c3b60ef925f9.png)
 
+
 ![image](https://user-images.githubusercontent.com/85263529/132605603-4db41163-4664-46e9-93b7-428cbe20014d.png)
 
 41. Escriba las ecuaciones de malla para el circuito de la figura 23-84.
@@ -432,18 +433,20 @@ referencia y determine.
 
 ![imagen](https://user-images.githubusercontent.com/85263529/132604347-d1512785-b212-48aa-aaa1-55c338e6c91c.png)
 
+![imagen](https://user-images.githubusercontent.com/85263529/132718670-813b9d59-a043-4f80-88bd-4863b4aa14c2.png)
+
 
 27.- Para el circuito de la figura 24-49, suponga que Z_{linea}=0.15\Omega+j0.25\Omega\ y\ V_{ab}=600\ V\angle30° Determine E_{AB}.
 
 ![imagen](https://user-images.githubusercontent.com/85263529/132604374-de0d2844-4401-415b-bb00-424f9168194d.png)
 
+![imagen](https://user-images.githubusercontent.com/85263529/132718786-2e5695a9-ebdf-4af4-8b63-f278bb812934.png)
 
 31.- Para la figura 24-21 (a), Z_Y=15\Omega+J20\Omega,\ Z∆=9Ω - j12Ω,Zlinea=0.1Ω + j0.1Ω,e Ia´b´=40A∠73.13°. Encuentre el voltaje de fase Y V_{an},\ magnitud y ángulo
 
 ![imagen](https://user-images.githubusercontent.com/85263529/132604414-0ec94d8b-e668-4add-9f20-136a3eed96ab.png)
 
-
-
+![imagen](https://user-images.githubusercontent.com/85263529/132718847-a4d74707-2a85-46c3-9954-cae0f77cf476.png)
 
 24-5 Potencia en sistemas balanceados
 
@@ -451,46 +454,52 @@ referencia y determine.
 
 ![imagen](https://user-images.githubusercontent.com/85263529/132604464-42a584b5-16e6-4eb1-8dff-8a2414fd7854.png)
 
+![imagen](https://user-images.githubusercontent.com/85263529/132718941-6cbfc3ed-48a0-41ed-b39e-0a2f3a0451ba.png)
 
+![imagen](https://user-images.githubusercontent.com/85263529/132719011-912d1738-cb76-4ea2-b0a3-316a47330fec.png)
+
+![imagen](https://user-images.githubusercontent.com/85263529/132719064-de3acd42-49d7-432b-959c-19d0f02476fd.png)
 
 
 35.- Para la figura 24-47, calcule las potencias real, reactiva y aparente con las fórmulas para PT, QT, y ST de la tabla 24-2. (Use VL = 207.8 V en lugar del valor nominal de 208 V.) Compare sus resultados con los del problema 34. 
 
 ![imagen](https://user-images.githubusercontent.com/85263529/132604488-3725a7da-6dc6-4766-bc43-890699c036dd.png)
 
+![imagen](https://user-images.githubusercontent.com/85263529/132719129-7dafc8f3-4194-4cae-b71e-c07e08141bc9.png)
 
-
+![imagen](https://user-images.githubusercontent.com/85263529/132719163-ec0aa26c-7e9d-4f64-982e-68a65a062f9a.png)
 
 37.- Para la figura 24-48, E_{AB}=208\ V. Calcule las potencias real, reactiva y aparente con las fórmulas para PT, QT, y ST de la tabla 24-2. Compare sus resultados con los del problema 36.
 
 ![imagen](https://user-images.githubusercontent.com/85263529/132604523-e0cbf45c-1a0f-4bb1-95e2-84e0aa420cf4.png)
 
+![imagen](https://user-images.githubusercontent.com/85263529/132719241-dafa5392-598d-4011-b0a2-605faa01c9a5.png)
+
+![imagen](https://user-images.githubusercontent.com/85263529/132719310-2b0e6f20-9de7-4080-af1c-7aa80a5ef2b5.png)
 
 
 39.- Para la figura 24-53, si\ V_{ab}=600V, determine la potencia total, la potencia reactiva total, la potencia aparente total y el factor de potencia.
 
 ![imagen](https://user-images.githubusercontent.com/85263529/132604577-7e9fc642-ca73-4da9-bd5d-5bca25d9dcb6.png)
 
+![imagen](https://user-images.githubusercontent.com/85263529/132719379-5bbe23a8-269e-49fd-95e5-6614e4a39cc7.png)
 
 
 41.- Para la figura 24-19, si V_{ab}=480V, determine la potencia total, la potencia reactiva total, la potencia aparente total y el factor de potencia.
 
 ![imagen](https://user-images.githubusercontent.com/85263529/132604604-7dab14ea-0224-4220-acb1-60ea1dbd5587.png)
 
-
-
+![imagen](https://user-images.githubusercontent.com/85263529/132719442-aa426246-ab52-4edd-85a9-dba482c26ee3.png)
 
 43.- V_{ab}=208V para una carga balanceada Y, P_T=1\ 200W,\ y\ Q_T=750\ VAR/(ind). Seleccione V_{an} como referencia y determine I_a.(Use el triángulo de potencia)
 
-
-
+![imagen](https://user-images.githubusercontent.com/85263529/132719496-c44154e0-0e8a-431c-a37b-f8c8ca25f573.png)
 
 45.- Los capacitores de la figura 24-54 están conectados en Y y cada uno tiene el valor de C =120 uF. Calcule el factor de potencia resultante. La frecuencia es de 60 Hz. 
 
 ![imagen](https://user-images.githubusercontent.com/85263529/132604649-091673b0-4356-43b5-8ddf-6dc18b9c7aab.png)
 
-
-
+![imagen](https://user-images.githubusercontent.com/85263529/132719566-f662c461-2d9d-4712-ac38-801e1d3b2909.png)
 
 
 24-6 Medición de potencia en circuitos trifásicos
@@ -505,9 +514,7 @@ b. Calcule la lectura de cada uno.
 
 c. Sume las lecturas y compárelas con el resultado de 2304 W que se obtuvo en el problema 34. 
 
-
-
-
+![imagen](https://user-images.githubusercontent.com/85263529/132719744-53670c0d-7f3b-43a6-b31a-9664f9de6da1.png)
 
 49.- Para el circuito de la figura 24-56, V_{ab}=208V\angle30°.
 
@@ -521,9 +528,9 @@ c. Calcule las lecturas de cada wattímetro.
 
 d. Sume las lecturas de los medidores y compare los resultados para PT de (b).
 
+![imagen](https://user-images.githubusercontent.com/85263529/132719820-598c49eb-3bbd-4690-8f13-ede768b5da29.png)
 
-
-
+![imagen](https://user-images.githubusercontent.com/85263529/132719889-d39b633a-b7d6-4570-a136-1cdc0babbc88.png)
 
 51.- Considere el circuito de la figura 24-56.
 
@@ -571,8 +578,11 @@ d. Potencia total en la carga.
 
 a. Los voltajes en cada fase de la carga.
 
+![imagen](https://user-images.githubusercontent.com/85263529/132720050-3f6f384b-5191-4f01-b7e9-bd427f297d3e.png)
+
 b. El voltaje entre el neutro de la carga y el neutro del generador.
 
+![imagen](https://user-images.githubusercontent.com/85263529/132720108-3b111eeb-e2b0-4c24-8974-61e40ec4646b.png)
 
 
 
